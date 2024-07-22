@@ -11,9 +11,9 @@ This will help you to diagnose your ANRs, on Unity versions 2022 and less. From 
 # How to use
 1. **Build** the project in Android Studio by open the project folders in Android Studio and hitting "Make Project"
 
-2.**Grab** the `UnityANR-Plugin.aar` file (compiled plugin) from the `Plugin/build/outputs/aar/` folder
+2. **Grab** the `UnityANR-Plugin.aar` file (compiled plugin) from the `Plugin/build/outputs/aar/` folder
 
-3.**Import** the `UnityANR-Plugin.aar` file into your Unity Editor
+3. **Import** the `UnityANR-Plugin.aar` file into your Unity Editor
 
 4. **Call** the APIs!
 
