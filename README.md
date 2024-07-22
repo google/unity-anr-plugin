@@ -19,4 +19,4 @@ This will help you to diagnose your ANRs, on Unity versions 2022 and less. From 
 
 # License
 **unity-anr-plugin** is distributed under the terms of the Apache License (Version 2.0). See the
-[license](LICENSE) for more information.
+[license](LICENSE.md) for more information.
