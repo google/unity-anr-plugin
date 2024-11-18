@@ -1,3 +1,5 @@
+* 🚚 This project has moved to a new [location](https://github.com/android/games-samples/tree/main/unity/anr_plugin)*
+
 # Unity ANR Plugin
 
 The Unity ANR Plugin provides the access to the following APIs from Android SDK:
