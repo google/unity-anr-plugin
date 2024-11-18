@@ -1,4 +1,4 @@
-* 🚚 This project has moved to a new [location](https://github.com/android/games-samples/tree/main/unity/anr_plugin)*
+*🚚 This project has moved to a new [location](https://github.com/android/games-samples/tree/main/unity/anr_plugin)*
 
 # Unity ANR Plugin
 
